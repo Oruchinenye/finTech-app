@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+}
+
+.wrapper {
+    background: #141414;
+    color: #fff;
+    width: 390px;
+    height: 844px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    gap: 20px;
+}
+}
+
+.wrapper-vector {
+    width: 17px;
+    height: 23px;
+}
+
+.wrapper-image {
+    width: 270px;
+    height: 538px;
+}
